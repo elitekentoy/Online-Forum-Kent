@@ -20,6 +20,8 @@ import { AngularFireModule } from '@angular/fire/compat';
 import { AuthService } from './shared/services/auth.service';
 import { AdminModule } from './admin/admin.module';
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
